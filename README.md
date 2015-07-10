@@ -1,5 +1,5 @@
 # usefulBash
-collection of useful bash commands
+collection of useful bash commands:
 
 send message or data to specific port of given IP, port 99
 # nc -w 3 192.168.1.19 99 < [data or text file]
